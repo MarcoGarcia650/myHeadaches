@@ -1,0 +1,45 @@
+main {
+  background-color: #003153;
+  color: white;
+}
+
+html {
+  background-color: #003153;
+}
+
+img {
+  display: block;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+section > header {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #5ec8d8;
+}
+
+.nav-link {
+  color: #5ec8d8;
+  margin: 20px;
+}
+
+.nav-link-ref {
+  color: #5ec8d8;
+}
+
+section {
+  margin: 20px;
+}
+
+#Reference {
+  padding-bottom: 10px;
+}
+
+p {
+  text-indent: 40px;
+}
+
+@media (min-width: 300px) {
+  
+}
